@@ -8,6 +8,8 @@ ChemARise is available on
 - Google Playstore: https://play.google.com/store/apps/details?id=com.LCO.ChemARise
 - Apple App Store: https://apps.apple.com/be/app/chemarise/id6459995288
 - GitHub release for Android: https://github.com/rlavendomme/ChemARise/releases
+<br/>
+<img width="738" height="281" alt="ChemARise download" src="https://github.com/user-attachments/assets/9952e75a-23e2-4bca-af94-fd226905f78a" /><br/>
 
   ## Development repository
   ChemARise is build with Unity and uses Vuforia to detect images in AR. Most code comes from Unity and Vuforia and will not be stored in the present GitHub repository. Original C# scripts developped for ChemARise will be shared on this repository.
